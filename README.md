@@ -28,8 +28,8 @@ Follow these instructions to get started with either version of the project:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/nikandr-surkov/Paws-Telegram-Mini-App-Clone.git
-    cd Paws-Telegram-Mini-App-Clone
+    git clone https://github.com/mohnate/Paws-TelegramLite.git
+    cd Paws-TelegramLite
     ```
 
 ### Initial Setup
